@@ -75,7 +75,7 @@ console.log("1"+ 2 +2); //********** output : 122 ***************
 console.log(1+2+"2");   //********** output : 32 I************** 
 
 console.log(+true); // output : 1
-console.log(+"");   //output : 0
+console.log(+"");   // output : 0
 
 let num1 = num2= num3=4
 console.log(num1+num2+num3); //12
