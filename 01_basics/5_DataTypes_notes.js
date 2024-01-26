@@ -40,3 +40,5 @@ console.log(typeof myFunction);  //type of function is function but it is said a
 
 
 
+
+
